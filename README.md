@@ -29,3 +29,8 @@ Vinyl printing is a method of printing that is generally limited to a 1 colour p
 CNC router (Or Computer Numerical Control router) is a computer-controlled cutting machine related to the hand held router used for cutting various hard materials, such as wood, composites, aluminium, steel, plastics, and foams. CNC stands for computer numerical control. CNC routers can perform the tasks of many carpentry shop machines such as the panel saw, the spindle moulder, and the boring machine. They can also cut mortises and tenons.A CNC router is very similar in concept to a CNC milling machine. Instead of routing by hand, tool paths are controlled via computer numerical control. The CNC router is one of many kinds of tools that have CNC variants.A CNC router is very similar in concept to a CNC milling machine. Instead of routing by hand, tool paths are controlled via computer numerical control. The CNC router is one of many kinds of tools that have CNC variants.For more information click here.](https://en.wikipedia.org/wiki/CNC_router)
 
 <img src="https://shaheenhyderk.github.io/sho.jpg" width="700" height="500">
+
+
+ ## Go To:
+ [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
+ 
